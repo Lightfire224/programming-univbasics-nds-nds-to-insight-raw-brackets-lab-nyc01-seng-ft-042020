@@ -26,7 +26,7 @@ def directors_totals(nds)
     director_number += 1
 end
 
-puts results
+return results
 
   #
   # Use loops, variables and the accessing method, [], to loop through the NDS
@@ -37,5 +37,4 @@ puts results
   #
   #
   # Be sure to return the result at the end!
-  nil
 end
